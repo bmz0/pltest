@@ -1,0 +1,101 @@
+body {
+
+  font-family: 'Play', sans-serif;
+  font-weight: 400;
+  font-size: medium;
+  background: white linear-gradient(to bottom, #f0f8ff 80%, white) no-repeat;
+
+}
+
+ul {
+
+  padding: 0;
+  list-style: circle;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+
+}
+
+li {
+
+  display: inline-block;
+  padding: .4em .6em;
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+
+}
+
+li:first-of-type {
+
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+
+}
+
+li:last-of-type {
+
+  border: none;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+
+}
+
+div.list {
+
+  margin: .2em;
+  padding: 0 1em 1em;
+  border-radius: 16px;
+  background-color: #fff7dd;
+  border: 1px #c93 solid;
+
+}
+
+div.newlist {
+
+    padding: 0 1em 1em;
+
+}
+
+.cardbody {
+
+  margin-right: 2em;
+
+}
+
+.activecard {
+
+  background-color: #bfb;
+
+}
+
+.deletecard {
+
+  background-color: #fcc;
+
+}
+
+.activelist {
+
+  border: 1px #4c0 solid !important;
+  background-color: #efe !important;
+
+}
+
+.deletelist {
+
+  border: 1px #c44 solid !important;
+  background-color: #fcc !important;
+
+}
+
+.delbtn {
+
+  color: #a00;
+
+}
+
+.renbtn {
+
+  color: #380;
+
+}
