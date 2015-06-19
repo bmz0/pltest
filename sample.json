@@ -1,0 +1,45 @@
+{
+  "cards" : {
+    "-Js81ONjWsOMdBr3bjLx" : {
+      "body" : "Lorem ipsum"
+    },
+    "-Js81ZQh-UeWgJSbYQij" : {
+      "body" : "should be enough to test bootstrap columns"
+    },
+    "-Js8MjXeYtPmQAByGIqa" : {
+      "body" : "some text"
+    },
+    "-Js8MnYEHG_p3FVVEvV8" : {
+      "body" : "and some more"
+    },
+    "-Js8Mq6qicL7iLnaPOyA" : {
+      "body" : "and a third item"
+    },
+    "-Js8MyOX-QCBVaXgZDxY" : {
+      "body" : "with a single item"
+    }
+  },
+  "listContents" : {
+    "-Js81JAfz9tzHIar0Md_" : [ "-Js81ONjWsOMdBr3bjLx", "-Js81ZQh-UeWgJSbYQij" ],
+    "-Js8MfO8lJLfPRkjV24A" : [ "-Js8MjXeYtPmQAByGIqa", "-Js8MnYEHG_p3FVVEvV8", "-Js8Mq6qicL7iLnaPOyA" ],
+    "-Js8Mw5vcyZTPG8iqacs" : [ "-Js8MyOX-QCBVaXgZDxY" ]
+  },
+  "lists" : {
+    "-Js81JAfz9tzHIar0Md_" : {
+      ".priority" : 4,
+      "name" : "Last list"
+    },
+    "-Js81LU83z_Cmgu79vi2" : {
+      ".priority" : 3,
+      "name" : "Empty list"
+    },
+    "-Js8MfO8lJLfPRkjV24A" : {
+      ".priority" : 1,
+      "name" : "First list"
+    },
+    "-Js8Mw5vcyZTPG8iqacs" : {
+      ".priority" : 2,
+      "name" : "Second list"
+    }
+  }
+}
